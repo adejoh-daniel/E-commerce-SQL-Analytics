@@ -1,4 +1,4 @@
-# E-commerce-SQL-Analytics# E-Commerce Operational & Marketing Analytics Pipeline (MySQL)
+# E-Commerce Operational & Marketing Analytics Pipeline (MySQL)
 
 ## 📊 Project Overview
 This project demonstrates the design and implementation of an end-to-end relational database for an e-commerce platform using **MySQL**. Instead of just querying flat files, I built a normalized schema from scratch to track transactional behaviors and solve real-world business challenges.
